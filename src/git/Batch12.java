@@ -9,6 +9,7 @@ public class Batch12 {
 		System.out.println("jdfnjvnavjv ajsdn");
 		
 		System.out.println("vbefhbv uh uefhefbv ueh guabsfvu");
+		System.out.println("jvnsefvbd  uegu");
 	}
 
 }
